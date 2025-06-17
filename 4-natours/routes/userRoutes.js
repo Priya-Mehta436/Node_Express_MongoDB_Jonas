@@ -3,12 +3,6 @@ const userController = require('./../controllers/userController')
 
 const userRouter = express.Router();
 
-userRouter.param('id', (req, res, next, val) =>{
-    console.log(`User id is: ${val}`);
-    next();
-});
-
-
 userRouter
     .route('/')
     .get(userController.getAllUsers)
