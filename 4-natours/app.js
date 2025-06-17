@@ -86,12 +86,12 @@ app.patch('/api/v1/tours/:id', (req, res) => {
     });
 }
 
-    res.status(200).jdon({
+    res.status(200).json({
         status: 'sucess',
         data: {
             tour: '<Updated tour here.....>'
         }
-    })
+    });
 
 });
 
