@@ -110,11 +110,11 @@ JWT_EXPIRES_IN=90d
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♀️ Author
 
 **Priya Mehta**  
 - [LinkedIn](www.linkedin.com/in/priya-mehta-9a3b6b333)  
-- [GitHub](https://github.com/Eternal-star8)  
+- [GitHub](https://github.com/Priya-Mehta436) 
 - 📧 pmehta12122005@gmail.com
 
 ---
